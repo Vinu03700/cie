@@ -5,6 +5,8 @@ public class swap{
         temp=a;
         a=b;
         b=temp;
-                system.out.println("After swaping a="+a+"b="+b);
+                system.out.println("After swaping");
+                system.out.println("a="+a+"b="+b);
+
     }
 }
